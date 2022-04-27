@@ -1,0 +1,84 @@
+.body{
+font-family:'Roboto', sans-serif;
+}
+
+.navbar{
+font-family:'Roboto', sans-serif;
+background-color: #28a745;
+}
+
+.navbar-brand img{
+width: 86px;
+}
+
+.card{
+margin: 0 auto;
+}
+
+.card-title{
+font-family: 'Roboto', sans-serif;
+font-size: 1rem;
+font-weight: 300;
+color: #212529;
+margin: 0;
+}
+
+.card-subtitle{
+font-family: 'Roboto', sans-serif;
+font-size: 1rem;
+color: #707070;
+font-weight: 300;
+margin: 0;
+}
+
+.card-text{
+font-family: 'Roboto', sans-serif; 
+font-size: 0.813rem;   
+color: #707070;
+font-weight: 300;
+}
+
+.price{
+font-family: 'Roboto', sans-serif;
+font-size: 1rem;
+color: #707070;
+font-weight: 300;
+text-decoration: none;
+}
+
+.price:hover{
+color: #707070;
+}
+
+.new-price{
+font-family: 'Roboto', sans-serif;
+font-size: 1.25rem;
+color: #28a745;
+font-weight: 500;
+text-decoration: none;	
+}
+
+.new-price:hover{
+color: #28a745;
+}
+
+.formulario{
+font-family: 'Roboto', sans-serif;
+background-color: #28a745;
+}
+
+footer{
+font-family: 'Roboto', sans-serif;
+text-align: center;
+}
+
+footer img{
+width: 82px;
+padding-top: 20px;
+}
+
+footer p{
+font-family: 'Roboto', sans-serif;
+color:#707070;
+font-weight:300;
+}
