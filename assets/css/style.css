@@ -82,3 +82,18 @@ font-family: 'Roboto', sans-serif;
 color:#707070;
 font-weight:300;
 }
+
+footer a{
+    color:#000000;
+}
+
+footer a:hover{
+color:green;
+}
+
+footer .RRSS{
+    font-size:15px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-weight:300;
+}
